@@ -30,7 +30,7 @@ You can also use it with basic
 and
 [Numpy](https://numpy.org/doc/stable/)
 code.
-[HardReset](https://hardreset.info/bypass/)
+[Kmun](https://kmunlocker.com/frp)
 
 
 With Treescope, instead of looking at this:
